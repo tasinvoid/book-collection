@@ -4,7 +4,7 @@ import { NavLink } from "react-router";
 const Header = () => {
   return (
     <div className="flex justify-between">
-      <p>Book Vibe</p>
+      <p className="text-3xl font-bold">Book Vibe</p>
       <ul className="flex gap-7 showActive">
         <li>
           <NavLink to={"/"}>Home</NavLink>

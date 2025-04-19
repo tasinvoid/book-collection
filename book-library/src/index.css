@@ -1,6 +1,7 @@
 li .active {
   color: #605dff;
-  border: 1px solid #605dff;
+  border-bottom: 1px solid #605dff;
   padding: 5px 3px;
-  border-radius: 5px;
+  font-size: larger;
+  font-weight: 600;
 }
